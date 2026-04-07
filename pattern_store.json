@@ -1,0 +1,248 @@
+{
+  "01c3da1e12cc": {
+    "label": "ATTACK",
+    "count": 206,
+    "label_count": 113,
+    "confident": false
+  },
+  "d76a0e44efe4": {
+    "label": "BENIGN",
+    "count": 18297,
+    "label_count": 10219,
+    "confident": false
+  },
+  "dc4c0ea6023c": {
+    "label": "ATTACK",
+    "count": 34167,
+    "label_count": 20409,
+    "confident": false
+  },
+  "e0c2434693fb": {
+    "label": "ATTACK",
+    "count": 3280,
+    "label_count": 2102,
+    "confident": false
+  },
+  "7fd8ba4b5b07": {
+    "label": "ATTACK",
+    "count": 51,
+    "label_count": 51,
+    "confident": true
+  },
+  "8230326f5c35": {
+    "label": "BENIGN",
+    "count": 98,
+    "label_count": 96,
+    "confident": true
+  },
+  "9e92dab599ff": {
+    "label": "ATTACK",
+    "count": 84,
+    "label_count": 84,
+    "confident": true
+  },
+  "dd4b79f950df": {
+    "label": "ATTACK",
+    "count": 64,
+    "label_count": 64,
+    "confident": true
+  },
+  "8978bdf4e56e": {
+    "label": "ATTACK",
+    "count": 30,
+    "label_count": 30,
+    "confident": false
+  },
+  "23b2a8ad0e62": {
+    "label": "ATTACK",
+    "count": 12,
+    "label_count": 12,
+    "confident": false
+  },
+  "3a5ee7854bed": {
+    "label": "BENIGN",
+    "count": 57,
+    "label_count": 57,
+    "confident": true
+  },
+  "d3f5e0cade29": {
+    "label": "ATTACK",
+    "count": 60,
+    "label_count": 60,
+    "confident": true
+  },
+  "bcb698638a80": {
+    "label": "ATTACK",
+    "count": 66,
+    "label_count": 66,
+    "confident": true
+  },
+  "aea516891bf0": {
+    "label": "ATTACK",
+    "count": 66,
+    "label_count": 66,
+    "confident": true
+  },
+  "f7dffe7fb836": {
+    "label": "BENIGN",
+    "count": 1128,
+    "label_count": 1077,
+    "confident": true
+  },
+  "58a502ae0a24": {
+    "label": "ATTACK",
+    "count": 18,
+    "label_count": 16,
+    "confident": false
+  },
+  "a936dd07d41c": {
+    "label": "ATTACK",
+    "count": 11,
+    "label_count": 11,
+    "confident": false
+  },
+  "8cbb7ca8dc17": {
+    "label": "BENIGN",
+    "count": 17,
+    "label_count": 17,
+    "confident": false
+  },
+  "32e9017d46d8": {
+    "label": "ATTACK",
+    "count": 8,
+    "label_count": 5,
+    "confident": false
+  },
+  "08a4e1c32bdf": {
+    "label": "ATTACK",
+    "count": 2,
+    "label_count": 2,
+    "confident": false
+  },
+  "8a461f36e71a": {
+    "label": "ATTACK",
+    "count": 15,
+    "label_count": 15,
+    "confident": false
+  },
+  "dd1a2429c8b6": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "e73f59f0ee9b": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "5a7331298a83": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "6fd0d02ce056": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "5b583ec2b2de": {
+    "label": "ATTACK",
+    "count": 37,
+    "label_count": 36,
+    "confident": false
+  },
+  "9dafa9314e2d": {
+    "label": "ATTACK",
+    "count": 2,
+    "label_count": 2,
+    "confident": false
+  },
+  "2bc689833fa2": {
+    "label": "BENIGN",
+    "count": 148,
+    "label_count": 148,
+    "confident": true
+  },
+  "281cb36c4251": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "43b1eed0ecfb": {
+    "label": "ATTACK",
+    "count": 2,
+    "label_count": 2,
+    "confident": false
+  },
+  "5135b6d7dc0d": {
+    "label": "ATTACK",
+    "count": 3,
+    "label_count": 3,
+    "confident": false
+  },
+  "c107243b6234": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "b1cba6acec1e": {
+    "label": "ATTACK",
+    "count": 15,
+    "label_count": 15,
+    "confident": false
+  },
+  "976bb88d68d1": {
+    "label": "ATTACK",
+    "count": 51,
+    "label_count": 51,
+    "confident": true
+  },
+  "4adb87ff4fa9": {
+    "label": "ATTACK",
+    "count": 227,
+    "label_count": 227,
+    "confident": true
+  },
+  "240796417bc2": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "5b4512a199a7": {
+    "label": "ATTACK",
+    "count": 8,
+    "label_count": 8,
+    "confident": false
+  },
+  "d17291448b25": {
+    "label": "ATTACK",
+    "count": 6,
+    "label_count": 6,
+    "confident": false
+  },
+  "c043062c5e29": {
+    "label": "ATTACK",
+    "count": 4,
+    "label_count": 4,
+    "confident": false
+  },
+  "f0e1724b5f9a": {
+    "label": "ATTACK",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  },
+  "275c8caa4fce": {
+    "label": "BENIGN",
+    "count": 1,
+    "label_count": 1,
+    "confident": false
+  }
+}
