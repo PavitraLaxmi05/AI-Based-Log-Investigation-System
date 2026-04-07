@@ -14,7 +14,7 @@ The **AI Cyber-Forensic Command Center** is a high-performance, autonomous platf
 
 ## Full Pipeline
 
-![Full Pipeline](Log ingestion and anomaly detection flowchart.png)
+![Full Pipeline](full_flowchart.png)
 
 ---
 
